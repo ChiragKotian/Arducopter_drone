@@ -1,5 +1,5 @@
 # Arducopter_drone
-A drone made using Arducopter as FCU
+A drone made using Arducopter as FCU made using legacy versions of software like Mission Planner and APM planner.
 
 ## Demonstration Video
 
