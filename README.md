@@ -1,4 +1,4 @@
-![20221109_131147](https://github.com/ChiragKotian/Arducopter_drone/assets/117931123/98dabb13-055c-49a3-9b62-ae6bdf833bdf)# Arducopter_drone
+# Arducopter_drone
 A drone made using Arducopter as FCU made using legacy versions of software like Mission Planner and APM Planner.
 
 ![20221109_131136](https://github.com/ChiragKotian/Arducopter_drone/assets/117931123/39a4d99c-b9a8-44e9-bdee-e51bdb2e6cb0)
